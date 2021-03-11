@@ -1,0 +1,15 @@
+main{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px double firebrick;
+    transition: all ease-in 2s;
+}
+.red{
+    color: red
+}
+.green{
+    color:greenyellow;
+    background-color: black;   
+}

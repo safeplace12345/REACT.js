@@ -1,0 +1,15 @@
+*{
+    border-collapse: collapse;
+}
+table{
+    border:  3px solid firebrick ;
+}
+td,th{
+    border:1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    font-style: italic;
+    font-weight: bolder;
+}
